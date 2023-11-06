@@ -1,2 +1,2 @@
 # Gaming-Website
-this is ,y first website
+this is my first website
